@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+images.zip
+json-im.zip
+/.config/
+/metaplex/
+config.json
+/images/
+/json/
+/json-im/
