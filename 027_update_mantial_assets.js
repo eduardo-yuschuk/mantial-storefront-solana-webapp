@@ -34,6 +34,7 @@ function updateJsonData(asset, destinationAssetNumber, solTreasuryAccount) {
         ],
         "files": [
             {
+                //'https://mantial-collections-production.s3.amazonaws.com/0xa8b02283bc81dabf8bf3fcebef7b6af167894231/img/' + 
                 "uri": destinationAssetNumber.toString() + '.png',
                 "type": "image/png"
             }
@@ -69,7 +70,7 @@ fs.readdir(jsonFolder, function (err, files) {
         });
     });
 });
-
+/*
 // image files copy (renumbered)
 let imageFolder = './images';
 fs.readdir(imageFolder, function (err, files) {
@@ -87,3 +88,4 @@ fs.readdir(imageFolder, function (err, files) {
         }
     });
 });
+*/
