@@ -1,7 +1,7 @@
 echo "--------------------------------------------------------------------------------"
 echo "explore the candy machine:"
 
-CM_ADDRESS=$(ts-node ./metaplex/js/packages/cli/src/candy-machine-v2-cli.ts show -e devnet -k ./.config/solana/devnet.json -cp ./config.json -c example | grep Key | )
+CM_ADDRESS=$(ts-node ./metaplex/js/packages/cli/src/candy-machine-v2-cli.ts show -e devnet -k ./.config/solana/devnet.json -cp ./config.json -c example | grep Key | cut -d' ' -f 2)
 echo https://explorer.solana.com/address/$CM_ADDRESS?cluster=devnet
 
 echo "--------------------------------------------------------------------------------"

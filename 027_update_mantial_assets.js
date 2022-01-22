@@ -21,6 +21,7 @@ function getDestinationAssetNumber(filepath) {
 
 function updateJsonData(asset, destinationAssetNumber, solTreasuryAccount) {
     asset.image = destinationAssetNumber.toString() + '.png';
+    asset.symbol = "OMG";
     asset.properties = {
         "creators": [
             {
@@ -70,7 +71,7 @@ fs.readdir(jsonFolder, function (err, files) {
         });
     });
 });
-/*
+
 // image files copy (renumbered)
 let imageFolder = './images';
 fs.readdir(imageFolder, function (err, files) {
@@ -88,4 +89,3 @@ fs.readdir(imageFolder, function (err, files) {
         }
     });
 });
-*/
