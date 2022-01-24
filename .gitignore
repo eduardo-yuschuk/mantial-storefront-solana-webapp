@@ -105,10 +105,10 @@ dist
 images.zip
 json-im.zip
 /.config/
-/metaplex/
+#/metaplex/
 config.json
 /images/
 /json/
 /json-im/
-/assets/
+#/assets/
 /node_modules/

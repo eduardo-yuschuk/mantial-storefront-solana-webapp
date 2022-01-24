@@ -1,0 +1,186 @@
+{
+  "name": "OMG #1",
+  "description": "Oh My Giraffe! Baby collection",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "acc-eyes",
+      "value": null
+    },
+    {
+      "trait_type": "acc-eyes-W",
+      "value": null
+    },
+    {
+      "trait_type": "acc-mouth",
+      "value": null
+    },
+    {
+      "trait_type": "acc-mouth-W",
+      "value": null
+    },
+    {
+      "trait_type": "albines",
+      "value": null
+    },
+    {
+      "trait_type": "albines-W",
+      "value": null
+    },
+    {
+      "trait_type": "background-common",
+      "value": null
+    },
+    {
+      "trait_type": "background-mystic",
+      "value": null
+    },
+    {
+      "trait_type": "background-rare",
+      "value": null
+    },
+    {
+      "trait_type": "background-ultraRare",
+      "value": null
+    },
+    {
+      "trait_type": "beard",
+      "value": null
+    },
+    {
+      "trait_type": "blue-spots",
+      "value": null
+    },
+    {
+      "trait_type": "blue-spots-W",
+      "value": null
+    },
+    {
+      "trait_type": "brown-spots",
+      "value": null
+    },
+    {
+      "trait_type": "brown-spots-W",
+      "value": null
+    },
+    {
+      "trait_type": "dress",
+      "value": null
+    },
+    {
+      "trait_type": "dress-W",
+      "value": null
+    },
+    {
+      "trait_type": "eyes",
+      "value": null
+    },
+    {
+      "trait_type": "eyes-W",
+      "value": null
+    },
+    {
+      "trait_type": "green-spots",
+      "value": null
+    },
+    {
+      "trait_type": "green-spots-W",
+      "value": null
+    },
+    {
+      "trait_type": "hair",
+      "value": null
+    },
+    {
+      "trait_type": "hair-W",
+      "value": null
+    },
+    {
+      "trait_type": "makeup-W",
+      "value": null
+    },
+    {
+      "trait_type": "no-acc",
+      "value": null
+    },
+    {
+      "trait_type": "no-acc-W",
+      "value": null
+    },
+    {
+      "trait_type": "purple-spots",
+      "value": null
+    },
+    {
+      "trait_type": "purple-spots-W",
+      "value": null
+    },
+    {
+      "trait_type": "rings",
+      "value": null
+    },
+    {
+      "trait_type": "rings-W",
+      "value": null
+    },
+    {
+      "trait_type": "with-acc",
+      "value": null
+    },
+    {
+      "trait_type": "with-acc-W",
+      "value": null
+    },
+    {
+      "trait_type": "background w",
+      "value": "buildsky"
+    },
+    {
+      "trait_type": "giraffe w",
+      "value": "brown"
+    },
+    {
+      "trait_type": "eyes w",
+      "value": "alien eyes "
+    },
+    {
+      "trait_type": "clothes w",
+      "value": "yellow duck float"
+    },
+    {
+      "trait_type": "mouth w",
+      "value": "empty"
+    },
+    {
+      "trait_type": "head w",
+      "value": "pink ribbon"
+    },
+    {
+      "trait_type": "accesories w",
+      "value": "red bionic"
+    }
+  ],
+  "symbol": "OMG",
+  "properties": {
+    "creators": [
+      {
+        "address": "5vgrqLci7wBdd5dEn1VpZZbxByWG6HoL8ygRUjCTJ7ea",
+        "share": 50
+      },
+      {
+        "address": "A4KU7iRSRoDefvPfNUFB7d3nTgWVhENbpkZ5n11kdGS3",
+        "share": 50
+      }
+    ],
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "Oh My Giraffe! Baby collection",
+    "family": "Oh My Giraffe!"
+  }
+}
