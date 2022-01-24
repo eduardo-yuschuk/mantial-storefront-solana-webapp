@@ -111,3 +111,4 @@ config.json
 /json/
 /json-im/
 /assets/
+/node_modules/
