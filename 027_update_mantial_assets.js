@@ -6,7 +6,9 @@ var path = require('path');
 let assetsMaxCount = 10;
 
 // reads deployer address from configuration
-let config = JSON.parse(fs.readFileSync('./config.json').toString());
+let text = fs.readFileSync('./config.json', 'utf8');
+fs.writeFileSync('./config.json', text, 'utf8');
+let config = JSON.parse(fs.readFileSync('./config.json', 'utf8').toString());
 let solTreasuryAccount = config.solTreasuryAccount;
 console.log(solTreasuryAccount);
 
